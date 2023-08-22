@@ -14,13 +14,14 @@ The Video Frame Processor is a Flask-based web application designed to process v
 
 - **Docker Containerization:** The application is containerized using Docker, ensuring consistent behavior across different environments. This containerization simplifies deployment, making it easy to share and run the application on various systems.
 
-- **Educational Achievement:** Throughout the development of this project, we achieved a significant milestone by successfully creating and training our own image dataset. This experience has provided valuable insights into image processing, data management, and web application development.
+- **Achievement:** Throughout the development of this project, I achieved a significant milestone by successfully creating our own image dataset from a recorded video. This experience has provided valuable insights into image processing, data management, and web application development.
 
 ## How to Use
 
 1. Provide the path to the video file in the provided input field.
 2. Click the "Process Video" button to initiate the frame extraction process.
 3. Frames will be stored in the designated output directory.
+![Dataset Image](dataset.png)
 
 ## Conclusion
 
